@@ -1,0 +1,19 @@
+.root{
+    -fx-background-color:#999999 ;
+}
+
+#wlcom{
+    -fx-font-size: 25px
+}
+
+.label{
+    -fx-font-weight: bold;
+}
+
+#button  {
+    -fx-background-color:#307d7E;
+    -fx-text-fill:#F0FFFF;
+    -fx-background-radius: 10px;
+
+}
+
